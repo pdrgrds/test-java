@@ -101,7 +101,7 @@ public class FrmManteProd extends JFrame {
 	}
 
 	void listado() {
-		
+		System.out.println("proceso que llena el combo");
 	}
 	
 	void registrar() {
